@@ -1,4 +1,3 @@
-# logic-games
 
 # The Guessing Number Game
 ## Description
