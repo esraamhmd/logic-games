@@ -62,3 +62,10 @@ The Mastermind Game is an intriguing challenge where players endeavor to deciphe
 
 ## Diagrams
 ![Screenshot_2](https://github.com/user-attachments/assets/e5c4e70e-476e-4452-b058-dce429163351)
+
+
+
+## 📄 License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
